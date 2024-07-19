@@ -30,6 +30,7 @@ public class TestaInsercaoComProduto {
 				}
 			} 
 		}
+		System.out.println(comoda);
 		
 	}
 

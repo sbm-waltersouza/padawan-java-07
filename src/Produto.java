@@ -13,7 +13,7 @@ public class Produto {
 
 	public String getDescricao() {
 		// TODO Auto-generated method stub
-		return null;
+		return descricao;
 	}
 
 	public void setId(Integer id) {
@@ -22,7 +22,7 @@ public class Produto {
 
 	public String getNome() {
 		// TODO Auto-generated method stub
-		return null;
+		return nome;
 	}
 
 	@Override
